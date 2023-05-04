@@ -1,0 +1,18 @@
+:root {
+    --head: blue;
+    --bg-c: #f8f8fb;
+    --daily: darkblue;
+    --macity: grey;
+    --text: black;
+}
+
+header {
+    background-color: var(--head);
+    color: var(--bg-c);
+    text-align: center;
+}
+
+.column {
+    border-style: dashed;
+    border-color: var(--text);
+}
