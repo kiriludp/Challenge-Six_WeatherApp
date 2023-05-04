@@ -12,6 +12,10 @@ header {
     text-align: center;
 }
 
+h1 {
+    text-align: center;
+}
+
 .column {
     border-style: dashed;
     border-color: var(--text);
